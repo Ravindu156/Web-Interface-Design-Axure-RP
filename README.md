@@ -42,7 +42,10 @@ To view the designs created in Axure RP 9:
 ### 1. **Login Page Design**
 ![page_1](https://github.com/user-attachments/assets/af40c32c-df84-4c08-b93a-ddd1a09fe983)
 
-### 2. **Fitness Homepage Design**
+
+### 2.**Fitness Homepage Design**
+![page_2](https://github.com/user-attachments/assets/8b846317-5a57-457a-ad9e-bb1e246be29f)
+
 
 
 ## Conclusion
