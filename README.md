@@ -40,10 +40,10 @@ To view the designs created in Axure RP 9:
 
 ## Outputs
 ### 1. **Login Page Design**
-![Login Page](./page_1.png)
+![Login Page](HCI Practical/page_1.png).
 
 ### 2. **Fitness Homepage Design**
-![Fitness Homepage](./Screenshot02.png)
+![Fitness Homepage](HCI Practical/page_1.png)
 
 ## Conclusion
 This project highlights the UI design capabilities using Axure RP 9, emphasizing clean layout, user experience, and modern design aesthetics. These prototypes serve as foundational wireframes for future development and interactivity enhancements.
