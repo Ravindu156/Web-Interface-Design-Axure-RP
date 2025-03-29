@@ -40,7 +40,7 @@ To view the designs created in Axure RP 9:
 
 ## Outputs
 ### 1. **Login Page Design**
-![Login Page](./HCI Practical/Page_1.png)
+![Login Page](./page_1.png)
 
 ### 2. **Fitness Homepage Design**
 ![Fitness Homepage](./Screenshot02.png)
